@@ -1,4 +1,2 @@
-# second-repository
-Second website
-
-This is the second website repository.
+# Resturant Website
+A sample resturant site that utilizes bootstrap.
