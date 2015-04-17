@@ -1,0 +1,46 @@
+body{
+background:url("../background.jpg");
+}
+
+.container{
+background-color:white;
+opacity:.90;
+}
+
+.nav-main{
+background:#555;
+}
+
+.nav-main a{
+color:white;
+font-size:22px;
+font-weight:bold;
+}
+
+.nav a:hover{
+color:#555;
+}
+
+.panel h3, p{
+text-align:center;
+}
+
+.list-group-item{
+padding:20px;
+}
+
+.glyphicon{
+font-size:3em;
+display:block;
+text-align:center;
+}
+
+.panel{
+margin-top:30px;
+padding:10px;
+}
+
+.footer-nav{
+max-width:600px;
+margin-left:200px;
+}
